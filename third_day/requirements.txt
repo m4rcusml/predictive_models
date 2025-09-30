@@ -1,0 +1,11 @@
+# Requirements para Advanced Binary Classifier
+
+pandas>=1.3.0
+numpy>=1.21.0
+scikit-learn>=0.24.0
+matplotlib>=3.3.0
+seaborn>=0.11.0
+
+# Opcional (para exemplos avançados)
+jupyter>=1.0.0
+ipython>=7.0.0
